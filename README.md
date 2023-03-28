@@ -15,7 +15,7 @@
     4. Flexibility: Because each microservice can be developed and deployed independently, developers have the option of selecting the best technology stack and development approach for each service. Engineering teams can build and deploy new functionalities separately in each service without a need to redesign the whole solution.
 
 4. Is Nodejs a multithreaded language? 
-    Answer: node.js is a multithreaded language that support ssynchronous methods using the hidden threads through Libuv library which handles operations such like reading files from a disk or making network requests,although it run javascript code as a singlethreaded. 
+    Answer: Node.js itself is a multithreaded language that support ssynchronous methods using the hidden threads through Libuv library which handles operations such like reading files from a disk or making network requests, although it run javascript code as a singlethreaded. 
 
 5. What does REPL stand for?
     Answer: Read Evaluate Print Loop. A programming language that help a convert a single expression entered by user into a complete result to the console.
